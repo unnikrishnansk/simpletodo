@@ -36,3 +36,47 @@
     transform: rotate(360deg);
   }
 }
+
+.todoinput{
+  height: 50px;
+  width: 300px;
+  border-radius: 10px;
+  border: 0;
+  background-color: rgb(212, 208, 208);
+  font-size: 18px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.inputdiv{
+  margin-top: 50px;
+  background-color: bisque;
+  height: 60px;
+  width: 75%;
+  margin: auto;
+}
+
+.inputbttn{
+  height: 52px;
+  width: 50px;
+  margin-left: 10px;
+  border-radius: 10px;
+  border: 0;
+  background-color: rgb(212, 208, 208);
+  font-size: 20px;
+}
+
+.display{
+  font-size: 18px;
+  font-family: sans-serif;
+  font-weight: bold;
+  width: 30%;
+  height: 30px;
+  text-align: center;
+  align-items: center;
+  margin-top: 10px;
+  margin: auto;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+  display: flex;
+  justify-content: space-around;
+}
